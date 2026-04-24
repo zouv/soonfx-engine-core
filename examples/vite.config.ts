@@ -21,8 +21,7 @@ export default defineConfig({
     },
     resolve: {
         alias: {
-            '@': resolve(__dirname, 'src'),
-            '@soonfx/engine': resolve(__dirname, '../src/index.ts')
+            '@': resolve(__dirname, 'src')
         }
     },
     server: {

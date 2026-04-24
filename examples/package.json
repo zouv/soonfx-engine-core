@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@soonfx/engine": "^2.0.0",
+    "@soonfx/engine": "file:..",
     "echarts": "^5.5.0"
   },
   "devDependencies": {
